@@ -1,2 +1,2 @@
 #!/bin/sh
-./rebar get-deps compile generate
+rebar get-deps compile generate
